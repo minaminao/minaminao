@@ -1,5 +1,4 @@
 <div align="center">
-	<br>
-	<img src="https://github.com/minaminao/minaminao/blob/master/koujichu08.gif">
-	<br>
+	<img src="mona-loading-default.gif" width="48">
+	<p>One moment please...</p>
 </div>
